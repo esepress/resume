@@ -2,116 +2,116 @@
 /* CSS Document */
 
 #preloader {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
 .colored-text {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 .tp-banner a.btn1:hover {
-	border: 2px solid rgba(41, 104, 101, 1);
-	background-color: rgba(41, 104, 101, 1);
+	border: 2px solid #6889B2
+	background-color: #6889B2
 }
 .tp-banner a.btn2 {
-	border: 2px solid rgba(41, 104, 101, 1);
-	background-color: rgba(41, 104, 101, 1);
+	border: 2px solid #6889B2
+	background-color: #6889B2
 }
 .navbar-inverse {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
 /*.section-heading .heading {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }*/
 .owl-theme .owl-controls .owl-page span {
-	background: rgba(41, 104, 101, 1);
+	background: #6889B2
 }
 .education-timeline .programe {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 .education-timeline .education:hover .divider {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
 .education-timeline .education:hover .duration {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #process .items:hover {
-	background: rgba(41, 104, 101, 1);
+	background: #6889B2
 }
 .work-experience-timeline .company-name {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 .work-experience-timeline .url a{
-	color: rgba(41, 104, 101, 1);	
+	color: #6889B2	
 }
 .work-experience-timeline .col-left:hover .arrow {
-	border-color: transparent rgba(41, 104, 101, 1); transparent transparent;
+	border-color: transparent #6889B2 transparent transparent;
 }
 .work-experience-timeline .col-right:hover .arrow {
-	border-color: transparent transparent transparent rgba(41, 104, 101, 1);
+	border-color: transparent transparent transparent #6889B2
 }
 .work-experience-timeline .col-right:hover .duration, .work-experience-timeline .col-left:hover .duration {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #services-carousel .items:hover .icon {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #options ul li:hover a, #options ul li a.selected {
-	border: 2px solid rgba(41, 104, 101, 1);
-	background-color: rgba(41, 104, 101, 1);
+	border: 2px solid #6889B2
+	background-color: #6889B2
 }
 .overlayzoom span.zoom {
 	background: rgb(228, 84, 90); /* RGBa with 0.6 opacity */
 	background: rgba(228, 84, 90, 0.7);
 }
 .portfolio-detail .heading {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 .links a {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #video .play a:hover {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #awards-carousel .items:hover .icon {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #testimonials-carousel .items .emp-name {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #contact {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
 #contact .section-heading h1.icon-line i {
-	background: rgba(41, 104, 101, 1);
+	background: #6889B2
 }
 #contact .contact-form .form button {
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 #contact .contact-form .form button:hover {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
 .social-icons ul li {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
 #footer .desc i {
 	margin-bottom: 12px;
-	color: rgba(41, 104, 101, 1);
+	color: #6889B2
 }
 .link-btn a {
-	background-color: rgba(41, 104, 101, 1);
-	border: 4px solid rgba(41, 104, 101, 1);
+	background-color: #6889B2
+	border: 4px solid #6889B2
 }
 .link-btn a:hover {
-	border: 4px solid rgba(41, 104, 101, 1);
-	color: rgba(41, 104, 101, 1);
+	border: 4px solid #6889B2
+	color: #6889B2
 }
 .link-btn-2 a {
-	background-color: rgba(41, 104, 101, 1);
-	border: 4px solid rgba(41, 104, 101, 1);
+	background-color: #6889B2
+	border: 4px solid #6889B2
 }
 .link-btn-2 a:hover {
-	border: 4px solid rgba(41, 104, 101, 1);
-	color: rgba(41, 104, 101, 1);
+	border: 4px solid #6889B2
+	color: #6889B2
 }
 .scrollup {
-	background-color: rgba(41, 104, 101, 1);
+	background-color: #6889B2
 }
