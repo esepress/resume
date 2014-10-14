@@ -14,9 +14,7 @@ body {
 	font-weight: 400;
 	-webkit-overflow-scrolling: touch;	
 }
-.fa-3x{
-color: rgba(0, 228, 196, 0.78);
-}
+
 .sticky-wrapper{
 	margin-bottom: -21px;
 }
@@ -248,7 +246,7 @@ to {
 	padding-top: 12px;
 	padding-bottom: 12px;
 	margin-left: -190px !important;
-	color: rgba(0, 228, 196, 0.78);
+	color: rgba(187, 255, 246, 0.78);
 }
 .tp-banner a.btn1 {
 	color: #FFF!important;
