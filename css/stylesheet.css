@@ -408,7 +408,7 @@ section {
 	z-index: 1;
 }
 .section-heading h1.icon-line i {
-	background: #ccc;
+	background: #6889B2;
 	color: #fff;
 	position: relative;
 	z-index: 5;
@@ -1249,7 +1249,7 @@ a.scrollup:hover i {
     height: auto;
     padding:15px;
     color:#fff;
-    background:rgba(44, 111, 119, 1);
+    background:#6889B2;
     border:none;
     border-radius:3px;
     outline: none;
