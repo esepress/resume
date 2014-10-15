@@ -807,7 +807,6 @@ section#footer {
 }
 .link-btn a:hover {
 	border: 4px solid #2da7bf;
-	background-color: transparent;
 	color: #2da7bf;
 }
 .link-btn a i {

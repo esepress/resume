@@ -92,7 +92,8 @@
         <div class="row">
                     <div class="col-md-8 col-md-offset-2 section-heading">
                         <div class="heading animated" data-animation="fadeInUp" data-animation-delay="200">MY SERVICES</div>
-                        <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="700"><i class="fa fa-wrench "></i></h1>
+                        <h1 class="icon-line animated" data-animation="fadeInUp" data-animation-delay="700">
+                        <i class="fa fa-wrench "></i></h1>
                         <div class="description animated" data-animation="fadeIn" data-animation-delay="1200">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..Neque porro quisquam est qui quia dolor sit amet..</div>
                     </div>
                 </div>
@@ -510,6 +511,7 @@
         <script src="js/jquery.scrollTo.js"></script> 
         <script src="js/jquery.nav.js"></script> 
         <script type="text/javascript" src="js/jquery.sticky.js"></script>
+        <script type="text/javascript" src="js/snap.svg-min.js"></script>
         <script type="text/javascript" src="js/jquery.donutchart.js"></script> 
         <script type="text/javascript" src="js/retina/retina.js"></script>
         <script type="text/javascript" src="js/modernizr.custom.js"></script>
@@ -523,32 +525,6 @@
             $("#donutchart7").donutchart("animate");
             $("#donutchart8").donutchart("animate");            
         </script> 
-        <script type="text/javascript">
-        new WOW().init();
-        </script>
-
-        <script>
-            var hash = window.location.hash,
-                current = 0,
-                demos = Array.prototype.slice.call( document.querySelectorAll( '#codrops-demos > a' ) );
-            
-            if( hash === '' ) hash = '#set-1';
-            setDemo( demos[ parseInt( hash.match(/#set-(\d+)/)[1] ) - 1 ] );
-
-            demos.forEach( function( el, i ) {
-                el.addEventListener( 'click', function() { setDemo( this ); } );
-            } );
-
-            function setDemo( el ) {
-                var idx = demos.indexOf( el );
-                if( current !== idx ) {
-                    var currentDemo = demos[ current ];
-                    currentDemo.className = currentDemo.className.replace(new RegExp("(^|\\s+)" + 'current-demo' + "(\\s+|$)"), ' ');
-                }
-                current = idx;
-                el.className = 'current-demo'; 
-            }
-        </script>
         <script>
             (function() {
     
